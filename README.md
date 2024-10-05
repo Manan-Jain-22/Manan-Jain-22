@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on innovative software engineering projects and open-source initiatives.
 - 📫 How to reach me: mananj2003@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy combinotorics & Optimization and exploring new technologies in my free time!
+- ⚡ Fun fact: I enjoy playing sports in my free time!
