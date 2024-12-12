@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Manan-Jain-22
+<h3 align="center">👋 Hello, I’m </h3>
+<h1 align="center">Manan Jain </h1>
+
+<p align="center">Software Engineer</p>
+
 - 👀 I’m interested in coding and exploring new technologies.
 - 🌱 I’m currently learning about advanced data structures and algorithms, and improving my coding skills.
 - 💞️ I’m looking to collaborate on innovative software engineering projects and open-source initiatives.
